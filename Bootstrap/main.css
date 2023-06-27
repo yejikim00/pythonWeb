@@ -1,0 +1,35 @@
+/* *** 1. 부트스트랩 개념 이해 *** */
+/* 부모 요소를 먼저 작성하는 것이 관리하는 데에 편리 */
+/* .container {
+    width: 300px;
+    margin: auto; */
+    /* 수평 가운데 정렬이 됨. */
+    /* background-color: orange; */
+
+/* } */
+
+/* .btn {
+    display: inline-block; */
+    /* display: 요소가 화면에 보여지는 특성을 지정해주는 속성 */
+    /* 1. inline 요소, 2. block 요소, 3. inline-block 요소: inline 요소지만, block 요소의 특징도 가지고 있다.  4. flex 요소 */
+    /* padding: 10px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer; */
+    /* 마우스 커서를 가져다 대면 누를 수 있을 것 같은 포인터로 바뀜. */
+/* } */
+
+/* *** 3. 부트스트랩 Layout - Containers */
+/* .box {
+    height: 100px;
+    background-color: orange;
+} */
+
+/* *** 4. 부트스트랩 Layout - Columns */
+/* .box {
+    height: 100px;
+    background-color: royalblue;
+    font-size: 50px;
+    border: 4px solid black;
+} */
